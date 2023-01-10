@@ -1,8 +1,9 @@
 Olá!!! Eu sou o Jarmison
 
 - 🔭 Em busca do primeiro trabalho/estágio
-- 🌱 Estudando JavaScript
-- 😄 Pronouns: ele/dele
+- 🌱 Estudando JavaScrip
+               Python
+
 
 <div align="center">
   <a href="https://github.com/JarmisonRSM">
